@@ -6,9 +6,9 @@
 ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-Data_Curation-F7931E)
 
 ## 👨‍💻 Team
-* **K. Rishitha ** - [GitHub](https://github.com/Rishitha470)
+* **K. Rishitha** - [GitHub](https://github.com/Rishitha470)
 * **V. Rishikesh** - [GitHub](https://github.com/rishikesh1825)
-* **M. Sai Teja ** - [GitHub](https://github.com/MADINENI-SAITEJA) 
+* **M. Sai Teja** - [GitHub](https://github.com/MADINENI-SAITEJA) 
 * 
 ## 📌 Project Overview
 An end-to-end Data Curation and Visualization (DCV) pipeline and interactive dashboard engineered to analyze and detect anomalies in highly skewed financial transaction datasets. 
