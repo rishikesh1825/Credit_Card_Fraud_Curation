@@ -27,8 +27,9 @@ This project bridges the gap between exploratory data analysis and production-le
 ## 📂 Project Structure
 ```text
 credit-card-fraud-curation/
+├── .gitignore             # Git exclusions (ignores raw dataset)
 ├── app.py                 # Main Dash application and PyTorch callbacks
-├── creditcard.csv         # Raw dataset (ensure this is in .gitignore if >100MB)
 ├── fraud_weights.pth      # Saved state_dict for the PyTorch inference model
 ├── requirements.txt       # Production dependencies
+├── train.py               # Model training script
 └── README.md              # Project documentation
