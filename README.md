@@ -7,7 +7,7 @@
 
 ## 👨‍💻 Team
 * **K. Rishitha ** - [GitHub](https://github.com/Rishitha470)
-* * **V. Rishikesh** - [GitHub](https://github.com/rishikesh1825)
+* **V. Rishikesh** - [GitHub](https://github.com/rishikesh1825)
 * **M. Sai Teja ** - [GitHub](https://github.com/MADINENI-SAITEJA) 
 * 
 ## 📌 Project Overview
